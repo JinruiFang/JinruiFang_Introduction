@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jinrui Fang
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning Informatics: data science in Univeristy of Washington
+- 🌱 I’m currently learning Data Science in New York University
 - 📫 Feel free to email me: jf4959@nyu.edu
 
 <!---
